@@ -1,0 +1,4 @@
+# LogMask Engine has no third-party dependencies.
+# It relies exclusively on the Python standard library (re module).
+# This file is kept intentionally empty to reserve dependency management
+# for future versions (see "Roadmap" in README.md).
